@@ -1,5 +1,5 @@
 # Martin Quinlan
-### Senior Service Reliability Manager | Data Science & ML Specialist | MIT Certified
+### Senior Service Reliability Manager at Workday | Data Science & ML Specialist | MIT Certified
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/martin-timothy-quinlan/)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:martin.quinlan@gmail.com)
