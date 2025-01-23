@@ -134,7 +134,7 @@ Currently serving as **Senior Service Reliability Manager** at Workday, focusing
 
 - Email: martin.quinlan@gmail.com
 - LinkedIn: [martin-timothy-quinlan](https://www.linkedin.com/in/martin-timothy-quinlan/)
-- Location: Munich, Germany
+- Location: Germany
 
 ---
 
