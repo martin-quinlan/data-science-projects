@@ -1,5 +1,5 @@
 # Martin Quinlan
-### Senior Service Reliability Manager at Workday | Data Science & ML Specialist | MIT Certified
+### Senior Platform Reliability Engineer | Data Science & ML Specialist | MIT Certified
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/martin-timothy-quinlan/)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:martin.quinlan@gmail.com)
@@ -22,7 +22,7 @@ Seasoned cloud platform reliability specialist with over 15 years of industry ex
 
 ## 📊 Featured Projects
 
-### 1. Marketing Campaign Customer Segmentation
+### 1. Marketing Campaign Customer Segmentation [(View Code)](https://github.com/martin-quinlan/data-science-projects/blob/main/MQ_Final_Capstone_Project_Reference_Notebook_Full_Code_Marketing_Campaign_Analysis.ipynb)
 **Executive Summary**: Comprehensive customer segmentation analysis using advanced clustering techniques and RFM (Recency, Frequency, Monetary) analysis. The project focused on optimising marketing campaign effectiveness across a customer base of 2,240 individuals, resulting in identification of distinct customer segments with 5x higher campaign response rates.
 
 **Key Findings**:
@@ -39,7 +39,7 @@ Seasoned cloud platform reliability specialist with over 15 years of industry ex
 - Utilised advanced validation metrics (Silhouette, Calinski-Harabasz, Davies-Bouldin)
 - Engineered sophisticated feature selection and transformation pipeline
 
-### 2. FoodHub Data Analysis
+### 2. FoodHub Data Analysis [(View Code)](https://github.com/martin-quinlan/data-science-projects/blob/main/Final_MQ_FDS_Project_LearnerNotebook_FullCode.ipynb)
 **Executive Summary**: Comprehensive analysis of online food delivery service data examining 1,898 orders across multiple restaurants. The project focused on optimising delivery efficiency and enhancing customer satisfaction through advanced data analytics.
 
 **Key Findings**:
@@ -54,7 +54,7 @@ Seasoned cloud platform reliability specialist with over 15 years of industry ex
 - Implemented advanced pattern recognition algorithms
 - Designed predictive models for delivery optimisation
 
-### 3. Auto MPG Analysis
+### 3. Auto MPG Analysis [(View Code)](https://github.com/martin-quinlan/data-science-projects/blob/main/Final_MQ_PCA_and_tSNE_Project_FullCode_version.ipynb)
 **Executive Summary**: Advanced analysis of automotive data utilising Principal Component Analysis (PCA) and t-SNE, focusing on efficiency patterns and market segmentation. The project demonstrated the effectiveness of dimensionality reduction techniques in uncovering hidden patterns in vehicle characteristics.
 
 **Technical Implementation**:
@@ -69,7 +69,7 @@ Seasoned cloud platform reliability specialist with over 15 years of industry ex
 - Demonstrated clear evolution of fuel efficiency technologies
 - Established correlations between vehicle characteristics and performance
 
-### 4. AllLife Bank Customer Segmentation
+### 4. AllLife Bank Customer Segmentation [(View Code)](https://github.com/martin-quinlan/data-science-projects/blob/main/Final_MQ_Learner_Notebook_USL_Fullcode_Version.ipynb)
 **Executive Summary**: Comprehensive unsupervised learning project analysing customer interaction patterns across multiple channels. The project focused on developing clustering models to enhance customer service delivery and marketing effectiveness.
 
 **Implementation Details**:
@@ -178,7 +178,7 @@ This capstone project tackled the challenge of optimising marketing campaign eff
 - Established clear implementation roadmap
 - Provided detailed cost-benefit analysis
 
-[View Full Project Details](#)
+[View Full Project Details](https://github.com/martin-quinlan/data-science-projects/blob/main/MQ_Final_Capstone_Project_Reference_Notebook_Full_Code_Marketing_Campaign_Analysis.ipynb)
 
 ### FoodHub Analysis
 
@@ -202,7 +202,7 @@ The project focused on optimising food delivery operations through data-driven i
 - Improved resource allocation
 - Increased operational efficiency
 
-[View Full Project Details](#)
+[View Full Project Details](https://github.com/martin-quinlan/data-science-projects/blob/main/Final_MQ_FDS_Project_LearnerNotebook_FullCode.ipynb)
 
 ### Auto MPG Analysis
 
@@ -226,7 +226,7 @@ Advanced study of vehicle efficiency patterns using sophisticated dimensionality
 - Created actionable manufacturer insights
 - Developed clear efficiency trends
 
-[View Full Project Details](#)
+[View Full Project Details](https://github.com/martin-quinlan/data-science-projects/blob/main/Final_MQ_PCA_and_tSNE_Project_FullCode_version.ipynb)
 
 ### AllLife Bank Customer Segmentation
 
@@ -250,4 +250,4 @@ Focused on understanding customer interaction patterns and preferences across di
 - Optimised channel strategy
 - Increased operational efficiency
 
-[View Full Project Details](#)
+[View Full Project Details](https://github.com/martin-quinlan/data-science-projects/blob/main/Final_MQ_Learner_Notebook_USL_Fullcode_Version.ipynb)
