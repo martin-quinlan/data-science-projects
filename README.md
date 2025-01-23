@@ -1,5 +1,5 @@
 # Martin Quinlan
-### Senior Platform Reliability Engineer | Data Science & ML Specialist | MIT Certified
+### Senior Service Reliability Manager at Workday | Data Science & ML Specialist | MIT Certified
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/martin-timothy-quinlan/)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:martin.quinlan@gmail.com)
@@ -10,149 +10,125 @@ Seasoned cloud platform reliability specialist with over 15 years of industry ex
 
 ### 🎓 Education & Certifications
 - **MIT Professional Education**: Applied Data Science Programme - Leveraging AI for Effective Decision-Making (2024)
-  - Comprehensive study of machine learning, neural networks, and advanced analytics
-  - Specialised focus on AI implementation and practical applications
-  - Capstone project in predictive analytics
+  - Advanced analytics and machine learning
+  - Neural networks and deep learning
+  - Data visualisation and analysis
+  - Practical AI implementation
 - **Professional Certifications**:
   - Site Reliability Engineering: Measuring and Managing Reliability
   - Advanced Python Programming
   - Generative AI and Large Language Models
 - **Higher Education**: Computer Science, Griffith College Dublin
-  - Focus on algorithmic thinking and software engineering principles
-  - Strong foundation in mathematical and statistical concepts
 
 ## 📊 Featured Projects
 
-### 1. FoodHub Data Analysis
-**Executive Summary**: Comprehensive analysis of online food delivery service data examining 1,898 orders across multiple restaurants. The project focused on optimising delivery efficiency and enhancing customer satisfaction through advanced data analytics.
-
-**Key Achievements**:
-- Developed sophisticated predictive models for delivery time optimisation, achieving 94% accuracy
-- Identified and quantified key factors influencing customer satisfaction through multivariate analysis
-- Created automated reporting systems for restaurant performance metrics using Python and advanced visualisation techniques
-- Implemented machine learning algorithms for pattern recognition in customer behaviour
-
-**Technical Implementation**:
-```python
-# Example of delivery time prediction implementation
-class DeliveryPredictor:
-    def __init__(self):
-        self.model = RandomForestRegressor(
-            n_estimators=100,
-            max_depth=10,
-            random_state=42
-        )
-        
-    def preprocess_features(self, data):
-        # Feature engineering implementation
-        return processed_features
-        
-    def train(self, X, y):
-        self.model.fit(self.preprocess_features(X), y)
-```
+### 1. Marketing Campaign Customer Segmentation
+**Executive Summary**: Comprehensive customer segmentation analysis using advanced clustering techniques and RFM (Recency, Frequency, Monetary) analysis. The project focused on optimising marketing campaign effectiveness across a customer base of 2,240 individuals, resulting in identification of distinct customer segments with 5x higher campaign response rates.
 
 **Key Findings**:
-- Weekend orders account for 68.5% of total volume, with peak hours between 18:00-21:00
-- 29.2% of orders (>£20) generate 59.8% of revenue, suggesting premium pricing opportunities
-- Average delivery time: 24.16 minutes, with a standard deviation of 5.8 minutes
-- Identified significant correlation between order value and customer satisfaction
-
-### 2. Auto MPG Analysis
-**Executive Summary**: Advanced analysis of automotive data utilising Principal Component Analysis (PCA) and t-SNE, focusing on efficiency patterns and market segmentation. The project incorporated sophisticated dimensionality reduction techniques to uncover hidden patterns in vehicle characteristics.
+- Identified two distinct customer segments with 83.1%/16.9% split
+- Premium segment showed 30-35% campaign response rates versus 0-7% in primary segment
+- Average spending differential of 2.26x between segments ($1,081.96 vs $478.05)
+- Developed clear customer value progression pathways through four tiers
+- Catalog channel showed strongest correlation with spending (r=0.778)
 
 **Technical Implementation**:
-- Developed custom dimensionality reduction pipeline using PCA and t-SNE
-- Implemented multiple clustering algorithms including K-means, Gaussian Mixture Models, and K-medoids
-- Created bespoke visualisation frameworks for high-dimensional data representation
-- Utilised statistical analysis to validate findings and ensure robustness
+- Implemented PCA for dimensionality reduction (82.1% variance explained)
+- Developed comprehensive clustering analysis (K-Means, DBSCAN, Hierarchical)
+- Created dual-model approach combining K-Means with RFM analysis
+- Utilised advanced validation metrics (Silhouette, Calinski-Harabasz, Davies-Bouldin)
+- Engineered sophisticated feature selection and transformation pipeline
 
-**Key Insights**:
-- Identified four distinct vehicle segments through cluster analysis
-- Mapped efficiency trends across decades, showing technological evolution
-- Created predictive models for fuel economy with 87% accuracy
-- Developed interactive visualisation tools for segment analysis
+### 2. FoodHub Data Analysis
+**Executive Summary**: Comprehensive analysis of online food delivery service data examining 1,898 orders across multiple restaurants. The project focused on optimising delivery efficiency and enhancing customer satisfaction through advanced data analytics.
 
-### 3. AllLife Bank Customer Segmentation
-**Executive Summary**: Comprehensive unsupervised learning project analysing customer interaction patterns across multiple channels. The project focused on developing sophisticated clustering models to enhance customer service delivery and marketing effectiveness.
+**Key Findings**:
+- Weekend orders account for 68.5% of total volume
+- 29.2% of orders (>$20) generate 59.8% of revenue
+- Average delivery time: 24.16 minutes
+- Demonstrated clear correlation between order value and delivery performance
+
+**Technical Implementation**:
+- Developed comprehensive statistical analysis framework
+- Created automated data visualisation pipelines
+- Implemented advanced pattern recognition algorithms
+- Designed predictive models for delivery optimisation
+
+### 3. Auto MPG Analysis
+**Executive Summary**: Advanced analysis of automotive data utilising Principal Component Analysis (PCA) and t-SNE, focusing on efficiency patterns and market segmentation. The project demonstrated the effectiveness of dimensionality reduction techniques in uncovering hidden patterns in vehicle characteristics.
+
+**Technical Implementation**:
+- Dimensionality reduction using PCA and t-SNE
+- Clustering analysis with K-means, GMM, and K-medoids
+- Advanced visualisation frameworks for high-dimensional data
+- Statistical validation methodology
+
+**Key Findings**:
+- Identified distinct vehicle segments through cluster analysis
+- Mapped efficiency trends across production years
+- Demonstrated clear evolution of fuel efficiency technologies
+- Established correlations between vehicle characteristics and performance
+
+### 4. AllLife Bank Customer Segmentation
+**Executive Summary**: Comprehensive unsupervised learning project analysing customer interaction patterns across multiple channels. The project focused on developing clustering models to enhance customer service delivery and marketing effectiveness.
 
 **Implementation Details**:
-- Developed comprehensive clustering models using advanced techniques
-- Created predictive systems for customer behaviour analysis
-- Implemented cutting-edge visualisation techniques for pattern recognition
+- Developed advanced clustering algorithms
+- Created customer behaviour analysis systems
+- Implemented sophisticated visualisation techniques
 - Utilised ensemble methods for robust segmentation
 
-**Business Impact**:
-- Identified three distinct customer segments with unique behavioural patterns
-- Optimised service delivery strategies, resulting in 28% improvement in customer satisfaction
-- Enhanced marketing targeting efficiency by 45%
-- Developed automated reporting systems for segment analysis
+**Key Outcomes**:
+- Identified three distinct customer segments
+- Established clear channel preferences by segment
+- Demonstrated correlation between credit limits and digital adoption
+- Created actionable insights for service delivery optimisation
 
 ## 💻 Technical Skills
 
 ### Programming Languages
 - **Python** (Advanced)
-  - Expertise in data science libraries (NumPy, Pandas, Scikit-learn)
-  - Custom algorithm implementation
+  - Data science libraries (NumPy, Pandas, Scikit-learn)
+  - Algorithm implementation
   - Performance optimisation
 - **SQL**
-  - Complex query optimisation
-  - Database design and management
+  - Query optimisation
+  - Database management
 - **JavaScript**
-  - Web-based visualisation
+  - Data visualisation
   - Interactive dashboards
 
 ### Frameworks & Tools
 - **Data Science**: Pandas, NumPy, Scikit-learn, SciPy
-- **Deep Learning**: TensorFlow, PyTorch, Keras
+- **Deep Learning**: TensorFlow, PyTorch
 - **Containerisation**: Docker, Kubernetes
-- **Cloud Platforms**: AWS, GCP, Azure
-- **Visualisation**: Matplotlib, Seaborn, Plotly, D3.js
+- **Cloud Platforms**: AWS, GCP
+- **Visualisation**: Matplotlib, Seaborn
 
 ### Specialisations
-- Machine Learning & Artificial Intelligence
-- Statistical Analysis and Modelling
-- Advanced Data Visualisation
-- Platform Reliability Engineering
-- Cloud Architecture and Optimisation
-- Performance Analysis and Tuning
+- Machine Learning & AI
+- Statistical Analysis
+- Data Visualisation
+- Platform Reliability
+- Cloud Architecture
 
 ## 🔬 Research Interests
 
-- Machine Learning Operations (MLOps) and Scale
-- Generative AI Applications in Enterprise
-- Cloud Platform Optimisation Techniques
-- Advanced Data Analytics and Visualisation
+- Machine Learning Operations (MLOps)
+- Generative AI Applications
+- Cloud Platform Optimisation
+- Advanced Data Analytics
 - Distributed Systems Reliability
-- Quantum Computing Applications in Data Science
-
-## 📈 Key Performance Indicators
-
-### Platform Reliability
-- Reduced mean time to detection (MTTD) by 65% through ML-based monitoring
-- Achieved 99.99% platform availability over 12 months
-- Decreased incident resolution time by 45% through automated analysis
-- Implemented predictive maintenance reducing downtime by 30%
-
-### Data Science Implementation
-- Developed and deployed 15+ production ML models
-- Processed and analysed over 1M customer interactions
-- Improved prediction accuracy by 35% through ensemble methods
-- Reduced computational costs by 40% through optimisation
+- AI in Infrastructure Management
 
 ## 🌐 Professional Experience
 
 Currently serving as **Senior Service Reliability Manager** at Workday, focusing on:
-- Platform observability enhancement through advanced analytics
-- Implementation of ML-driven monitoring solutions
-- Cross-functional technical leadership and mentoring
-- Development of data-driven decision frameworks
-- Integration of cutting-edge AI technologies
-
-### Recent Achievements
-- Led implementation of automated anomaly detection system
-- Developed comprehensive platform health monitoring framework
-- Established cross-functional collaboration protocols
-- Mentored junior engineers in ML and data science techniques
+- Architecting and implementing SLO-based orchestration systems
+- Developing advanced analytics dashboards for platform health monitoring
+- Leading complex technical initiatives across support and engineering teams
+- Implementing data-driven decision frameworks
+- Optimising multi-regional patch deployment processes
 
 ## 📞 Contact Information
 
@@ -161,3 +137,117 @@ Currently serving as **Senior Service Reliability Manager** at Workday, focusing
 - Location: Munich, Germany
 
 ---
+
+### 🔄 Recent Updates
+This repository is actively maintained and regularly updated with new projects and insights. I welcome collaboration opportunities and discussions about data science, machine learning, and platform reliability, particularly regarding innovative applications of AI in infrastructure management and reliability engineering.
+
+## 📑 Detailed Project Analyses
+
+### Marketing Campaign Customer Segmentation
+
+**Comprehensive Analysis**:
+This capstone project tackled the challenge of optimising marketing campaign effectiveness through advanced customer segmentation. The analysis revealed natural customer groupings with significant implications for marketing strategy and ROI.
+
+**Key Technical Achievements**:
+1. **Dimensionality Reduction**:
+   - Successfully reduced 24 features to 7 principal components
+   - Maintained 82.1% of total variance
+   - Enabled clear visualisation and interpretation
+
+2. **Clustering Analysis**:
+   - Implemented multiple clustering approaches (K-Means, DBSCAN, Hierarchical)
+   - Validated results through multiple statistical metrics
+   - Selected optimal approach based on both technical and business criteria
+
+3. **Value Segmentation**:
+   - Developed four-tier customer value system
+   - Bronze: $39.72 average spend (4.34 purchases)
+   - Silver: $186.46 average spend (8.31 purchases)
+   - Gold: $709.82 average spend (17.59 purchases)
+   - Platinum: $1,489.83 average spend (20.00 purchases)
+
+**Business Impact**:
+- Identified premium segment with 5x higher campaign response rates
+- Demonstrated 2.26x spending differential between segments
+- Created clear customer value development pathways
+- Established channel-specific engagement strategies
+
+**Implementation Framework**:
+- Developed dual-model approach combining K-Means with RFM analysis
+- Created robust validation metrics
+- Established clear implementation roadmap
+- Provided detailed cost-benefit analysis
+
+[View Full Project Details](#)
+
+### FoodHub Analysis
+
+**Comprehensive Analysis**:
+The project focused on optimising food delivery operations through data-driven insights, examining order patterns, delivery efficiency, and customer behaviour.
+
+**Key Technical Achievements**:
+1. **Pattern Recognition**:
+   - Identified key temporal patterns in ordering
+   - Mapped delivery efficiency factors
+   - Analysed customer value distribution
+
+2. **Predictive Modeling**:
+   - Developed delivery time prediction models
+   - Created customer value forecasting
+   - Implemented pattern detection algorithms
+
+**Business Impact**:
+- Optimised delivery routes and timing
+- Enhanced customer satisfaction metrics
+- Improved resource allocation
+- Increased operational efficiency
+
+[View Full Project Details](#)
+
+### Auto MPG Analysis
+
+**Comprehensive Analysis**:
+Advanced study of vehicle efficiency patterns using sophisticated dimensionality reduction and clustering techniques.
+
+**Key Technical Achievements**:
+1. **Feature Engineering**:
+   - Developed complex feature transformation pipeline
+   - Created advanced efficiency metrics
+   - Implemented sophisticated data cleaning protocols
+
+2. **Analysis Framework**:
+   - Applied multiple clustering approaches
+   - Created comprehensive validation framework
+   - Developed interactive visualisation tools
+
+**Business Impact**:
+- Enhanced understanding of efficiency patterns
+- Improved market segmentation
+- Created actionable manufacturer insights
+- Developed clear efficiency trends
+
+[View Full Project Details](#)
+
+### AllLife Bank Customer Segmentation
+
+**Comprehensive Analysis**:
+Focused on understanding customer interaction patterns and preferences across different banking channels.
+
+**Key Technical Achievements**:
+1. **Clustering Implementation**:
+   - Developed sophisticated clustering algorithms
+   - Created robust validation framework
+   - Implemented advanced visualisation techniques
+
+2. **Channel Analysis**:
+   - Mapped customer channel preferences
+   - Analysed interaction patterns
+   - Created customer journey maps
+
+**Business Impact**:
+- Improved service delivery
+- Enhanced customer satisfaction
+- Optimised channel strategy
+- Increased operational efficiency
+
+[View Full Project Details](#)
